@@ -1,0 +1,31 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"src/module/setting/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "LoadSetting_autogen_timestamp_deps::@954092a2daaeef852f67",
+	"isGeneratorProvided" : true,
+	"name" : "LoadSetting_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "src/module/setting",
+		"source" : "src/module/setting"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

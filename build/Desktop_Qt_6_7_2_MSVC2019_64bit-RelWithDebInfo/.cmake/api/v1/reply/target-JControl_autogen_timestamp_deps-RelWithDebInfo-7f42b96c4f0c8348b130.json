@@ -1,0 +1,38 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"src/module/input/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "QJoysticks::@706352f3919bb9420a20"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "JControl_autogen_timestamp_deps::@4f7585ef634dfbec09e3",
+	"isGeneratorProvided" : true,
+	"name" : "JControl_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "src/module/input",
+		"source" : "src/module/input"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

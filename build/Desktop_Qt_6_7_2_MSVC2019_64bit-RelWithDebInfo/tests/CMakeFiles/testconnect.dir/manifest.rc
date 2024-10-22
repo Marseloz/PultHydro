@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "E:/Users/mobut/Documents/testcmake/build/Desktop_Qt_6_7_2_MSVC2019_64bit-RelWithDebInfo/tests/CMakeFiles/testconnect.dir/embed.manifest"

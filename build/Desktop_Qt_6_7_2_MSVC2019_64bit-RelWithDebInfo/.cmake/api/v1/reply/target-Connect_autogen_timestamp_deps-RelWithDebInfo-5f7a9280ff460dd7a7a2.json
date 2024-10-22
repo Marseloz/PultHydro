@@ -1,0 +1,31 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"src/module/connect/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "Connect_autogen_timestamp_deps::@ca5e9a600ea8082fef51",
+	"isGeneratorProvided" : true,
+	"name" : "Connect_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "src/module/connect",
+		"source" : "src/module/connect"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

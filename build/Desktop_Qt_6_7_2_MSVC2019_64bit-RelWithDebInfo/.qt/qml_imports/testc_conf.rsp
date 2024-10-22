@@ -1,0 +1,9 @@
+-rootPath
+E:/Users/mobut/Documents/testcmake
+-cmake-output
+-output-file
+E:/Users/mobut/Documents/testcmake/build/Desktop_Qt_6_7_2_MSVC2019_64bit-RelWithDebInfo/.qt/qml_imports/testc_conf.cmake
+-importPath
+E:/Users/mobut/Documents/testcmake/build/Desktop_Qt_6_7_2_MSVC2019_64bit-RelWithDebInfo
+-importPath
+C:/Qt/6.7.2/msvc2019_64/./qml

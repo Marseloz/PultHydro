@@ -1,0 +1,573 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						11,
+						13,
+						14
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-RelWithDebInfo-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						17,
+						18,
+						19,
+						20
+					]
+				},
+				{
+					"build" : "src/module/connect",
+					"jsonFile" : "directory-src.module.connect-RelWithDebInfo-7c657c4f759fcd867cdc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "src/module/connect",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				},
+				{
+					"build" : "src/module/gui",
+					"childIndexes" : 
+					[
+						3
+					],
+					"jsonFile" : "directory-src.module.gui-RelWithDebInfo-72d85776bae2f0de31b4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "src/module/gui",
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5,
+						6
+					]
+				},
+				{
+					"build" : "src/module/gui/front",
+					"childIndexes" : 
+					[
+						4
+					],
+					"jsonFile" : "directory-src.module.gui.front-RelWithDebInfo-053237d0ce1b4e58cb26.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 2,
+					"source" : "src/module/gui/front"
+				},
+				{
+					"build" : "src/module/gui/front/moduls",
+					"childIndexes" : 
+					[
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					],
+					"jsonFile" : "directory-src.module.gui.front.moduls-RelWithDebInfo-6d334e403ee81e11863e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 2,
+					"source" : "src/module/gui/front/moduls"
+				},
+				{
+					"build" : "src/module/gui/front/moduls/Attitude",
+					"jsonFile" : "directory-src.module.gui.front.moduls.Attitude-RelWithDebInfo-40ef6160a96dc008a122.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 2,
+					"source" : "src/module/gui/front/moduls/Attitude"
+				},
+				{
+					"build" : "src/module/gui/front/moduls/Compass",
+					"jsonFile" : "directory-src.module.gui.front.moduls.Compass-RelWithDebInfo-ce4d60869104ce515458.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 2,
+					"source" : "src/module/gui/front/moduls/Compass"
+				},
+				{
+					"build" : "src/module/gui/front/moduls/Depth",
+					"jsonFile" : "directory-src.module.gui.front.moduls.Depth-RelWithDebInfo-3a01cfe58a90b4233e8d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 2,
+					"source" : "src/module/gui/front/moduls/Depth"
+				},
+				{
+					"build" : "src/module/gui/front/moduls/Direction",
+					"jsonFile" : "directory-src.module.gui.front.moduls.Direction-RelWithDebInfo-adb323530d2d109f1651.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 2,
+					"source" : "src/module/gui/front/moduls/Direction"
+				},
+				{
+					"build" : "src/module/gui/front/moduls/Force",
+					"jsonFile" : "directory-src.module.gui.front.moduls.Force-RelWithDebInfo-202994b497a157264a53.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 2,
+					"source" : "src/module/gui/front/moduls/Force"
+				},
+				{
+					"build" : "src/module/gui/front/moduls/Rpd",
+					"jsonFile" : "directory-src.module.gui.front.moduls.Rpd-RelWithDebInfo-61e4ff7abe4d86a8ed36.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 2,
+					"source" : "src/module/gui/front/moduls/Rpd"
+				},
+				{
+					"build" : "src/module/input",
+					"childIndexes" : 
+					[
+						12
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-src.module.input-RelWithDebInfo-4949c4d984b7a0c1a3b5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "src/module/input",
+					"targetIndexes" : 
+					[
+						7,
+						8,
+						9
+					]
+				},
+				{
+					"build" : "src/module/input/qjoysticks",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-src.module.input.qjoysticks-RelWithDebInfo-b722c08e697747c0b690.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 11,
+					"projectIndex" : 4,
+					"source" : "src/module/input/qjoysticks",
+					"targetIndexes" : 
+					[
+						13,
+						14,
+						15,
+						16
+					]
+				},
+				{
+					"build" : "src/module/setting",
+					"jsonFile" : "directory-src.module.setting-RelWithDebInfo-36f3963ddaad2d6086f5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 5,
+					"source" : "src/module/setting",
+					"targetIndexes" : 
+					[
+						10,
+						11,
+						12
+					]
+				},
+				{
+					"build" : "tests",
+					"jsonFile" : "directory-tests-RelWithDebInfo-70e4927a02b591d5c1f8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "tests",
+					"targetIndexes" : 
+					[
+						21,
+						22,
+						23,
+						24,
+						25,
+						26
+					]
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						5
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						14
+					],
+					"name" : "testc",
+					"targetIndexes" : 
+					[
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "Connect",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					],
+					"name" : "GUI",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5,
+						6
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						4
+					],
+					"directoryIndexes" : 
+					[
+						11
+					],
+					"name" : "JControl",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						7,
+						8,
+						9
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						12
+					],
+					"name" : "QJoysticks",
+					"parentIndex" : 3,
+					"targetIndexes" : 
+					[
+						13,
+						14,
+						15,
+						16
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						13
+					],
+					"name" : "LoadSetting",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "Connect::@ca5e9a600ea8082fef51",
+					"jsonFile" : "target-Connect-RelWithDebInfo-c3551bbfa34a1cd6965f.json",
+					"name" : "Connect",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Connect_autogen::@ca5e9a600ea8082fef51",
+					"jsonFile" : "target-Connect_autogen-RelWithDebInfo-34f1d5875cccb4acfa80.json",
+					"name" : "Connect_autogen",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Connect_autogen_timestamp_deps::@ca5e9a600ea8082fef51",
+					"jsonFile" : "target-Connect_autogen_timestamp_deps-RelWithDebInfo-5f7a9280ff460dd7a7a2.json",
+					"name" : "Connect_autogen_timestamp_deps",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "GUI::@8e9ba75b6b0fd0fa419a",
+					"jsonFile" : "target-GUI-RelWithDebInfo-f73ae378c6816d43f019.json",
+					"name" : "GUI",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "GUI_autogen::@8e9ba75b6b0fd0fa419a",
+					"jsonFile" : "target-GUI_autogen-RelWithDebInfo-ce079c2e64aa4e78985c.json",
+					"name" : "GUI_autogen",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "GUI_autogen_timestamp_deps::@8e9ba75b6b0fd0fa419a",
+					"jsonFile" : "target-GUI_autogen_timestamp_deps-RelWithDebInfo-0220bfa813ed96139e0b.json",
+					"name" : "GUI_autogen_timestamp_deps",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "GUI_resources_1::@8e9ba75b6b0fd0fa419a",
+					"jsonFile" : "target-GUI_resources_1-RelWithDebInfo-85b1c7c6192b93c169a5.json",
+					"name" : "GUI_resources_1",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "JControl::@4f7585ef634dfbec09e3",
+					"jsonFile" : "target-JControl-RelWithDebInfo-a147dc7535df19c43bf5.json",
+					"name" : "JControl",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "JControl_autogen::@4f7585ef634dfbec09e3",
+					"jsonFile" : "target-JControl_autogen-RelWithDebInfo-e8485c16a94e965c1097.json",
+					"name" : "JControl_autogen",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "JControl_autogen_timestamp_deps::@4f7585ef634dfbec09e3",
+					"jsonFile" : "target-JControl_autogen_timestamp_deps-RelWithDebInfo-7f42b96c4f0c8348b130.json",
+					"name" : "JControl_autogen_timestamp_deps",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "LoadSetting::@954092a2daaeef852f67",
+					"jsonFile" : "target-LoadSetting-RelWithDebInfo-4fc98c0cfe3d55e5e8c3.json",
+					"name" : "LoadSetting",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "LoadSetting_autogen::@954092a2daaeef852f67",
+					"jsonFile" : "target-LoadSetting_autogen-RelWithDebInfo-1aaa99b6148d40c0b388.json",
+					"name" : "LoadSetting_autogen",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "LoadSetting_autogen_timestamp_deps::@954092a2daaeef852f67",
+					"jsonFile" : "target-LoadSetting_autogen_timestamp_deps-RelWithDebInfo-abf0cb183806d8191632.json",
+					"name" : "LoadSetting_autogen_timestamp_deps",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "QJoysticks::@706352f3919bb9420a20",
+					"jsonFile" : "target-QJoysticks-RelWithDebInfo-e487a161e06edd6321e0.json",
+					"name" : "QJoysticks",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "QJoysticks_autogen::@706352f3919bb9420a20",
+					"jsonFile" : "target-QJoysticks_autogen-RelWithDebInfo-e54d9102c71d2eab177e.json",
+					"name" : "QJoysticks_autogen",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "QJoysticks_autogen_timestamp_deps::@706352f3919bb9420a20",
+					"jsonFile" : "target-QJoysticks_autogen_timestamp_deps-RelWithDebInfo-9d4f1c1f0cb8c79c4de3.json",
+					"name" : "QJoysticks_autogen_timestamp_deps",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "QJoysticks_resources_1::@706352f3919bb9420a20",
+					"jsonFile" : "target-QJoysticks_resources_1-RelWithDebInfo-24e2e4e7f53739347c37.json",
+					"name" : "QJoysticks_resources_1",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testc-RelWithDebInfo-fb86cebcd9a48fa6372f.json",
+					"name" : "testc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testc_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testc_autogen-RelWithDebInfo-27d8a6844e529d62d0f6.json",
+					"name" : "testc_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testc_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testc_autogen_timestamp_deps-RelWithDebInfo-a23cd24e6904b8cc084d.json",
+					"name" : "testc_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testc_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testc_qmlimportscan-RelWithDebInfo-42a79bd68ba2d5871595.json",
+					"name" : "testc_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "testconnect::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-testconnect-RelWithDebInfo-b8209c30e411bdf5f98a.json",
+					"name" : "testconnect",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "testconnect_autogen::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-testconnect_autogen-RelWithDebInfo-29317a75754a642acd4b.json",
+					"name" : "testconnect_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "testconnect_autogen_timestamp_deps::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-testconnect_autogen_timestamp_deps-RelWithDebInfo-714fe5e34ee55e0d5109.json",
+					"name" : "testconnect_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "testsettingmod::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-testsettingmod-RelWithDebInfo-d30cb26573c4aa615c49.json",
+					"name" : "testsettingmod",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "testsettingmod_autogen::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-testsettingmod_autogen-RelWithDebInfo-a92e336aa569c945ff7e.json",
+					"name" : "testsettingmod_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "testsettingmod_autogen_timestamp_deps::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-testsettingmod_autogen_timestamp_deps-RelWithDebInfo-0d3cf4b766c8aaf826e4.json",
+					"name" : "testsettingmod_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Users/mobut/Documents/testcmake/build/Desktop_Qt_6_7_2_MSVC2019_64bit-RelWithDebInfo",
+		"source" : "E:/Users/mobut/Documents/testcmake"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

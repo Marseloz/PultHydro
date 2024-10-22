@@ -1,0 +1,50 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"tests/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "GUI::@8e9ba75b6b0fd0fa419a"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Connect::@ca5e9a600ea8082fef51"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "LoadSetting::@954092a2daaeef852f67"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "JControl::@4f7585ef634dfbec09e3"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "testsettingmod_autogen_timestamp_deps::@a44f0ac069e85531cdee",
+	"isGeneratorProvided" : true,
+	"name" : "testsettingmod_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "tests",
+		"source" : "tests"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

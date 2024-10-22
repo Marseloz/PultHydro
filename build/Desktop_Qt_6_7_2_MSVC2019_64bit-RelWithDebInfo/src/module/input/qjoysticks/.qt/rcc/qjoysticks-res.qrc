@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/QJoysticks">
+    <file alias="qjoysticks-res.qrc">E:/Users/mobut/Documents/testcmake/src/module/input/qjoysticks/etc/resources/qjoysticks-res.qrc</file>
+  </qresource>
+</RCC>
+

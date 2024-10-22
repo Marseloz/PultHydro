@@ -1,0 +1,28 @@
+{
+	"BUILD_DIR" : "E:/Users/mobut/Documents/testcmake/build/Desktop_Qt_6_7_2_MSVC2019_64bit-RelWithDebInfo/src/module/input/qjoysticks/QJoysticks_autogen",
+	"CMAKE_BINARY_DIR" : "E:/Users/mobut/Documents/testcmake/build/Desktop_Qt_6_7_2_MSVC2019_64bit-RelWithDebInfo",
+	"CMAKE_CURRENT_BINARY_DIR" : "E:/Users/mobut/Documents/testcmake/build/Desktop_Qt_6_7_2_MSVC2019_64bit-RelWithDebInfo/src/module/input/qjoysticks",
+	"CMAKE_CURRENT_SOURCE_DIR" : "E:/Users/mobut/Documents/testcmake/src/module/input/qjoysticks",
+	"CMAKE_SOURCE_DIR" : "E:/Users/mobut/Documents/testcmake",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "E:/Users/mobut/Documents/testcmake/build/Desktop_Qt_6_7_2_MSVC2019_64bit-RelWithDebInfo/src/module/input/qjoysticks/QJoysticks_autogen/include",
+	"INPUTS" : 
+	[
+		"E:/Users/mobut/Documents/testcmake/src/module/input/qjoysticks/etc/resources/SDL/Database.txt",
+		"E:/Users/mobut/Documents/testcmake/src/module/input/qjoysticks/etc/resources/SDL/GenericMappings/Linux.txt",
+		"E:/Users/mobut/Documents/testcmake/src/module/input/qjoysticks/etc/resources/SDL/GenericMappings/OSX.txt",
+		"E:/Users/mobut/Documents/testcmake/src/module/input/qjoysticks/etc/resources/SDL/GenericMappings/Windows.txt"
+	],
+	"LOCK_FILE" : "E:/Users/mobut/Documents/testcmake/build/Desktop_Qt_6_7_2_MSVC2019_64bit-RelWithDebInfo/src/module/input/qjoysticks/CMakeFiles/QJoysticks_autogen.dir/AutoRcc_qjoysticks-res_OICXTEDBQS_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "qjoysticks_res" ],
+	"OUTPUT_CHECKSUM" : "OICXTEDBQS",
+	"OUTPUT_NAME" : "qrc_qjoysticks-res.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.7.2/msvc2019_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "E:/Users/mobut/Documents/testcmake/build/Desktop_Qt_6_7_2_MSVC2019_64bit-RelWithDebInfo/src/module/input/qjoysticks/CMakeFiles/QJoysticks_autogen.dir/AutoRcc_qjoysticks-res_OICXTEDBQS_Used.txt",
+	"SOURCE" : "E:/Users/mobut/Documents/testcmake/src/module/input/qjoysticks/etc/resources/qjoysticks-res.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}
